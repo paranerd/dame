@@ -1,0 +1,18 @@
+body {
+    margin-top: 0;
+    margin-left: 0;
+    background-color: #bc7642;
+}
+#canvas {
+    position: absolute;
+    border: 1px solid #5e2605;
+}
+
+#board {
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	border-radius: 2px;
+	box-shadow: 0 0 15px 5px #5e2605;
+	background-color: #5c3317;
+}
